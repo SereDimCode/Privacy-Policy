@@ -1,2 +1,2 @@
 Hello
-[Страница 2](readme2)
+[Страница 2](BolbfiskPP.md)
