@@ -1,2 +1,2 @@
 # Bolbfisk Support Page
-email: seredimm@gmail.com
+Contact email: seredimm@gmail.com
