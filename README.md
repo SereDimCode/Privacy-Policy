@@ -1,1 +1,1 @@
-[Bolbfisk PP: ](BolbfiskPP.md)
+[Bolbfisk PP](BolbfiskPP.md)
