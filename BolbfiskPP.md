@@ -1,4 +1,4 @@
-#>Bolbfisk Privacy Policy(h1)
+# Bolbfisk Privacy Policy (h1)
 
 Dmytro Serebrennikov built the Bolbfisk app as a Free app. This SERVICE is provided by Dmytro Serebrennikov at no cost and is intended for use as is.
 
