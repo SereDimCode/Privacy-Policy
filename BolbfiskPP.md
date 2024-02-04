@@ -1,4 +1,4 @@
-Bolbfisk Privacy Policy
+#Bolbfisk Privacy Policy<h1>
 
 Dmytro Serebrennikov built the Bolbfisk app as a Free app. This SERVICE is provided by Dmytro Serebrennikov at no cost and is intended for use as is.
 
@@ -16,7 +16,7 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-#Google Play Services<h1>
+Google Play Services
 AdMob
 Unity
 Log Data
