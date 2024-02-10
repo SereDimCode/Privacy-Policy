@@ -1,2 +1,2 @@
-# Bolbfisk Support Page
+# Support page SereDim
 Contact email: seredimm@gmail.com
