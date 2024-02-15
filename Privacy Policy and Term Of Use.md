@@ -1,9 +1,9 @@
-Privacy Policy and Term Of Use
-INTELLECTUAL PROPERTY
-Real name: Dmytro Serebrennikov
-Company name: SereDim
-Company emails: seredim3@gmail.com, seredim6@gmail.com, seredimm@gmail.com
-Account links:
+Privacy Policy and Term Of Use<br>
+INTELLECTUAL PROPERTY<br>
+Real name: Dmytro Serebrennikov<br>
+Company name: SereDim<br>
+Company emails: seredim3@gmail.com, seredim6@gmail.com, seredimm@gmail.com<br>
+Account links:<br>
 PlayMarket: https://play.google.com/store/apps/dev?id=5035107287525947877
 App Store: https://apps.apple.com/us/developer/dmytro-serebrennikov/id1727821242
 Itch.io: https://itch.io/dashboard
