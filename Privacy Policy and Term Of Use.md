@@ -15,22 +15,22 @@ If you have questions about data protection, or if you have any requests for res
 Email: seredimm@gmail.com
 
 ## SERVICES
-Dmytro Serebrennikov built the following games:
-- Medieval After Summer
-- Bolbfisk
-- Kuttuk
-- Feaare
-- 1dChess
-- Skwatta
-This document is the Privacy Policy and Term of Use for each of the games built by Dmytro Serebrennikov.
+Dmytro Serebrennikov built the following games:<br>
+- Medieval After Summer<br>
+- Bolbfisk<br>
+- Kuttuk<br>
+- Feaare<br>
+- 1dChess<br>
+- Skwatta<br>
+This document is the Privacy Policy and Term of Use for each of the games built by Dmytro Serebrennikov.<br>
 
-The name of the games may be different or renamed, so each has an unique id (bundle id or SKU):
-com.SereDim.MedievalAfterSummer
-com.SereDim.Bolbfisk
-com.SereDim.Kuttuk
-com.SereDim.Feaare
-com.SereDim.OneDChess
-com.SereDim.Skwatta
+The name of the games may be different or renamed, so each has an unique id (bundle id or SKU):<br>
+com.SereDim.MedievalAfterSummer<br>
+com.SereDim.Bolbfisk<br>
+com.SereDim.Kuttuk<br>
+com.SereDim.Feaare<br>
+com.SereDim.OneDChess<br>
+com.SereDim.Skwatta<br>
 
 ## OWNERSHIP
 All rights, title and interest in and to the Service (including without limitation any games, titles, computer code, themes, objects, characters, character names, stories, dialogue, catch phrases, concepts, artwork, animations, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, documentation, in-game chat transcripts, character profile information) are owned by Dmytro Serebrennikov. Dmytro Serebrennikov reserves all rights, including without limitation, all intellectual property rights or other proprietary rights, in connection with its games and the Service.
