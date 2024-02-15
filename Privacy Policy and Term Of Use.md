@@ -1,5 +1,5 @@
 # Privacy Policy and Term Of Use<br>
-INTELLECTUAL PROPERTY<br>
+## INTELLECTUAL PROPERTY<br>
 Real name: Dmytro Serebrennikov<br>
 Company name: SereDim<br>
 Company emails: seredim3@gmail.com, seredim6@gmail.com, seredimm@gmail.com<br>
