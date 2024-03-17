@@ -6,7 +6,7 @@ Company emails: seredim3@gmail.com, seredim6@gmail.com, seredimm@gmail.com<br>
 Account links:<br><br>
 PlayMarket: https://play.google.com/store/apps/dev?id=5035107287525947877<br>
 App Store: https://apps.apple.com/us/developer/dmytro-serebrennikov/id1727821242<br>
-Itch.io: https://itch.io/dashboard<br>
+Itch.io: https://seredim.itch.io<br>
 Twitter.com: https://twitter.com/sere_dim<br>
 All rights reserved.<br>
 
